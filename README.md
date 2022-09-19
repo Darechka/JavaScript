@@ -2,7 +2,7 @@
 
 This directory contains the examples of the tasks that I performed during my studies of **JavaScript fundamentals**.
 
-# JavaScript_Arrays
+# JavaScript_arrays
 
 This directory contains some of the tasks on **JavaScript array methods** that I've completed on https://www.codewars.com/
 
