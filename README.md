@@ -8,6 +8,5 @@ This directory contains some of the tasks on **JavaScript array methods** that I
 
 I like training on this platform because this is a great way to put the theoretical knowledge of JS into practice.
 
-At the moment, I'm mostly solving the kata of the 8 kyu rank but as soon as I finish learning certain topics, I'm going to proceed to the next rank tasks.
+I've already completed more than 200 kata of the 7 and 8 kyu rank.
 
-I've already completed more than 150 kata in JS.
